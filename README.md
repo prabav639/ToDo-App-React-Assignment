@@ -1,4 +1,4 @@
-# ToDo-App-React-Assignment
+# ToDo-App-PWA-Assignment
 --------------------------
 Name: Prabav Murali
 
