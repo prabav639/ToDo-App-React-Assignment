@@ -1,8 +1,5 @@
-# ToDo-App-PWA-Assignment
---------------------------
-Name: Prabav Murali
+# ToDo-ReactApp
 
-A#: A00453930
+This ToDo App was implemented using React JS. It is also a Progressive Web App.
 
-Description: This assignment was done using React
---------------------------
+
